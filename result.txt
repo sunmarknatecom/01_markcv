@@ -1,0 +1,283 @@
+seg_001_1_dcm_001.dcm    LOC: -0277   Pt pos: HFS        Img pos:        [-249, -445, -277]      Img_ori: [1, 0, 0, 0, 1, 0]
+seg_001_1_dcm_356.dcm    LOC: -1165   Pt pos: HFS        Img pos:        [-249, -445, -1165]     Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000888
+
+seg_001_2_dcm_001.dcm    LOC: -0242   Pt pos: HFS        Img pos:        [-249, -460, -242]      Img_ori: [1, 0, 0, 0, 1, 0]
+seg_001_2_dcm_307.dcm    LOC: -1007   Pt pos: HFS        Img pos:        [-249, -460, -1007]     Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000765
+
+seg_002_1_dcm_001.dcm    LOC: 00427   Pt pos: HFS        Img pos:        [-249, -424, 427]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_002_1_dcm_356.dcm    LOC: -0460   Pt pos: HFS        Img pos:        [-249, -424, -460]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000887
+
+seg_002_2_dcm_001.dcm    LOC: 00249   Pt pos: HFS        Img pos:        [-249, -459, 249]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_002_2_dcm_356.dcm    LOC: -0638   Pt pos: HFS        Img pos:        [-249, -459, -638]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000887
+
+seg_003_1_dcm_001.dcm    LOC: -0041   Pt pos: HFS        Img pos:        [-250, -250, -41]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_003_1_dcm_205.dcm    LOC: -0908   Pt pos: HFS        Img pos:        [-250, -250, -908]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000867
+
+seg_003_2_dcm_001.dcm    LOC: 00000   Pt pos: HFS        Img pos:        [-250, -250, 0]         Img_ori: [1, 0, 0, 0, 1, 0]
+seg_003_2_dcm_205.dcm    LOC: -0867   Pt pos: HFS        Img pos:        [-250, -250, -867]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000867
+
+seg_004_1_dcm_001.dcm    LOC: -0085   Pt pos: HFS        Img pos:        [-249, -423, -85]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_004_1_dcm_404.dcm    LOC: -1093   Pt pos: HFS        Img pos:        [-249, -423, -1093]     Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 001008
+
+seg_005_1_dcm_001.dcm    LOC: -0567   Pt pos: HFS        Img pos:        [-249, -445, -567]      Img_ori: [1, 0, 0, 0, 1, 0]
+seg_005_1_dcm_356.dcm    LOC: -1454   Pt pos: HFS        Img pos:        [-249, -445, -1454]     Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000887
+
+seg_005_2_dcm_001.dcm    LOC: -0209   Pt pos: HFS        Img pos:        [-249, -430, -209]      Img_ori: [1, 0, 0, 0, 1, 0]
+seg_005_2_dcm_404.dcm    LOC: -1216   Pt pos: HFS        Img pos:        [-249, -430, -1216]     Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 001007
+
+seg_006_1_dcm_001.dcm    LOC: -0042   Pt pos: HFS        Img pos:        [-250, -250, -42]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_006_1_dcm_205.dcm    LOC: -0909   Pt pos: HFS        Img pos:        [-250, -250, -909]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000867
+
+seg_006_2_dcm_001.dcm    LOC: -0044   Pt pos: HFS        Img pos:        [-250, -250, -44]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_006_2_dcm_239.dcm    LOC: -1056   Pt pos: HFS        Img pos:        [-250, -250, -1056]     Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 001012
+
+seg_007_1_dcm_001.dcm    LOC: -0024   Pt pos: HFS        Img pos:        [-250, -250, -24]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_007_1_dcm_205.dcm    LOC: -0891   Pt pos: HFS        Img pos:        [-250, -250, -891]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000867
+
+seg_010_1_dcm_001.dcm    LOC: 00407   Pt pos: HFS        Img pos:        [-249, -424, 407]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_010_1_dcm_404.dcm    LOC: -0600   Pt pos: HFS        Img pos:        [-249, -424, -600]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 001007
+
+seg_012_1_dcm_001.dcm    LOC: -0207   Pt pos: HFS        Img pos:        [-249, -454, -207]      Img_ori: [1, 0, 0, 0, 1, 0]
+seg_012_1_dcm_356.dcm    LOC: -1095   Pt pos: HFS        Img pos:        [-249, -454, -1095]     Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000888
+
+seg_012_2_dcm_001.dcm    LOC: -0147   Pt pos: HFS        Img pos:        [-249, -438, -147]      Img_ori: [1, 0, 0, 0, 1, 0]
+seg_012_2_dcm_404.dcm    LOC: -1155   Pt pos: HFS        Img pos:        [-249, -438, -1155]     Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 001008
+
+seg_013_1_dcm_001.dcm    LOC: -0547   Pt pos: HFS        Img pos:        [-249, -460, -547]      Img_ori: [1, 0, 0, 0, 1, 0]
+seg_013_1_dcm_356.dcm    LOC: -1435   Pt pos: HFS        Img pos:        [-249, -460, -1435]     Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000888
+
+seg_013_2_dcm_001.dcm    LOC: -0198   Pt pos: HFS        Img pos:        [-249, -458, -198]      Img_ori: [1, 0, 0, 0, 1, 0]
+seg_013_2_dcm_404.dcm    LOC: -1206   Pt pos: HFS        Img pos:        [-249, -458, -1206]     Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 001008
+
+seg_014_1_dcm_001.dcm    LOC: -0021   Pt pos: HFS        Img pos:        [-250, -250, -21]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_014_1_dcm_171.dcm    LOC: -0744   Pt pos: HFS        Img pos:        [-250, -250, -744]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000723
+
+seg_014_2_dcm_001.dcm    LOC: 00026   Pt pos: HFS        Img pos:        [-250, -250, 26]        Img_ori: [1, 0, 0, 0, 1, 0]
+seg_014_2_dcm_205.dcm    LOC: -0841   Pt pos: HFS        Img pos:        [-250, -250, -841]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000867
+
+seg_016_1_dcm_001.dcm    LOC: -0076   Pt pos: HFS        Img pos:        [-250, -250, -76]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_016_1_dcm_277.dcm    LOC: -0978   Pt pos: HFS        Img pos:        [-250, -250, -978]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000902
+
+seg_016_2_dcm_001.dcm    LOC: -0097   Pt pos: HFS        Img pos:        [-250, -250, -97]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_016_2_dcm_267.dcm    LOC: -0967   Pt pos: HFS        Img pos:        [-250, -250, -967]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000870
+
+seg_017_1_dcm_001.dcm    LOC: -0072   Pt pos: HFS        Img pos:        [-250, -250, -72]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_017_1_dcm_239.dcm    LOC: -1083   Pt pos: HFS        Img pos:        [-250, -250, -1083]     Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 001011
+
+seg_017_2_dcm_001.dcm    LOC: -0150   Pt pos: HFS        Img pos:        [-250, -250, -150]      Img_ori: [1, 0, 0, 0, 1, 0]
+seg_017_2_dcm_239.dcm    LOC: -1162   Pt pos: HFS        Img pos:        [-250, -250, -1162]     Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 001012
+
+seg_018_1_dcm_001.dcm    LOC: -0082   Pt pos: HFS        Img pos:        [-250, -250, -82]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_018_1_dcm_205.dcm    LOC: -0949   Pt pos: HFS        Img pos:        [-250, -250, -949]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000867
+
+seg_018_2_dcm_001.dcm    LOC: -0085   Pt pos: HFS        Img pos:        [-250, -250, -85]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_018_2_dcm_205.dcm    LOC: -0952   Pt pos: HFS        Img pos:        [-250, -250, -952]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000867
+
+seg_020_1_dcm_001.dcm    LOC: -0342   Pt pos: HFS        Img pos:        [-250, -180, -342]      Img_ori: [1, 0, 0, 0, 1, 0]
+seg_020_1_dcm_172.dcm    LOC: -1197   Pt pos: HFS        Img pos:        [-250, -180, -1197]     Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000855
+
+seg_020_2_dcm_001.dcm    LOC: -0263   Pt pos: HFS        Img pos:        [-200, -130, -263]      Img_ori: [1, 0, 0, 0, 1, 0]
+seg_020_2_dcm_170.dcm    LOC: -1108   Pt pos: HFS        Img pos:        [-200, -130, -1108]     Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000845
+
+seg_021_1_dcm_001.dcm    LOC: -0425   Pt pos: HFS        Img pos:        [-249, -428, -425]      Img_ori: [1, 0, 0, 0, 1, 0]
+seg_021_1_dcm_356.dcm    LOC: -1313   Pt pos: HFS        Img pos:        [-249, -428, -1313]     Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000888
+
+seg_021_2_dcm_001.dcm    LOC: -0557   Pt pos: HFS        Img pos:        [-249, -399, -557]      Img_ori: [1, 0, 0, 0, 1, 0]
+seg_021_2_dcm_404.dcm    LOC: -1565   Pt pos: HFS        Img pos:        [-249, -399, -1565]     Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 001008
+
+seg_022_1_dcm_001.dcm    LOC: -0155   Pt pos: HFS        Img pos:        [-250, -250, -155]      Img_ori: [1, 0, 0, 0, 1, 0]
+seg_022_1_dcm_171.dcm    LOC: -0878   Pt pos: HFS        Img pos:        [-250, -250, -878]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000723
+
+seg_022_2_dcm_001.dcm    LOC: -0105   Pt pos: HFS        Img pos:        [-250, -250, -105]      Img_ori: [1, 0, 0, 0, 1, 0]
+seg_022_2_dcm_205.dcm    LOC: -0972   Pt pos: HFS        Img pos:        [-250, -250, -972]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000867
+
+seg_023_1_dcm_001.dcm    LOC: 00010   Pt pos: HFS        Img pos:        [-250, -250, 10]        Img_ori: [1, 0, 0, 0, 1, 0]
+seg_023_1_dcm_205.dcm    LOC: -0857   Pt pos: HFS        Img pos:        [-250, -250, -857]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000867
+
+seg_023_2_dcm_001.dcm    LOC: -1001   Pt pos: HFS        Img pos:        [-250, -250, -1001]     Img_ori: [1, 0, 0, 0, 1, 0]
+seg_023_2_dcm_239.dcm    LOC: 00010   Pt pos: HFS        Img pos:        [-250, -250, 10]        Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = -01011
+
+seg_024_1_dcm_001.dcm    LOC: 00381   Pt pos: HFS        Img pos:        [-249, -389, 381]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_024_1_dcm_404.dcm    LOC: -0626   Pt pos: HFS        Img pos:        [-249, -389, -626]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 001007
+
+seg_024_2_dcm_001.dcm    LOC: 00376   Pt pos: HFS        Img pos:        [-249, -452, 376]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_024_2_dcm_356.dcm    LOC: -0511   Pt pos: HFS        Img pos:        [-249, -452, -511]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000887
+
+seg_025_1_dcm_001.dcm    LOC: -0005   Pt pos: HFS        Img pos:        [-250, -250, -5]        Img_ori: [1, 0, 0, 0, 1, 0]
+seg_025_1_dcm_239.dcm    LOC: -1016   Pt pos: HFS        Img pos:        [-250, -250, -1016]     Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 001011
+
+seg_025_2_dcm_001.dcm    LOC: -1155   Pt pos: HFS        Img pos:        [-250, -250, -1155]     Img_ori: [1, 0, 0, 0, 1, 0]
+seg_025_2_dcm_273.dcm    LOC: 00001   Pt pos: HFS        Img pos:        [-250, -250, 1]         Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = -01156
+
+seg_026_1_dcm_001.dcm    LOC: 00350   Pt pos: HFS        Img pos:        [-249, -427, 350]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_026_1_dcm_404.dcm    LOC: -0657   Pt pos: HFS        Img pos:        [-249, -427, -657]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 001007
+
+seg_026_2_dcm_001.dcm    LOC: -0015   Pt pos: HFS        Img pos:        [-249, -477, -15]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_026_2_dcm_404.dcm    LOC: -1023   Pt pos: HFS        Img pos:        [-249, -477, -1023]     Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 001008
+
+seg_027_1_dcm_001.dcm    LOC: 00421   Pt pos: HFS        Img pos:        [-249, -453, 421]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_027_1_dcm_404.dcm    LOC: -0586   Pt pos: HFS        Img pos:        [-249, -453, -586]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 001007
+
+seg_027_2_dcm_001.dcm    LOC: 00169   Pt pos: HFS        Img pos:        [-249, -435, 169]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_027_2_dcm_453.dcm    LOC: -0961   Pt pos: HFS        Img pos:        [-249, -435, -961]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 001130
+
+seg_028_1_dcm_001.dcm    LOC: -0013   Pt pos: HFS        Img pos:        [-250, -250, -13]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_028_1_dcm_239.dcm    LOC: -1024   Pt pos: HFS        Img pos:        [-250, -250, -1024]     Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 001011
+
+seg_028_2_dcm_001.dcm    LOC: -1036   Pt pos: HFS        Img pos:        [-250, -250, -1036]     Img_ori: [1, 0, 0, 0, 1, 0]
+seg_028_2_dcm_239.dcm    LOC: -0024   Pt pos: HFS        Img pos:        [-250, -250, -24]       Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = -01012
+
+seg_029_1_dcm_001.dcm    LOC: 00367   Pt pos: HFS        Img pos:        [-249, -409, 367]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_029_1_dcm_390.dcm    LOC: -0605   Pt pos: HFS        Img pos:        [-249, -409, -605]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000972
+
+seg_029_2_dcm_001.dcm    LOC: 00732   Pt pos: HFS        Img pos:        [-249, -446, 732]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_029_2_dcm_344.dcm    LOC: -0125   Pt pos: HFS        Img pos:        [-249, -446, -125]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000857
+
+seg_031_1_dcm_001.dcm    LOC: 00383   Pt pos: HFS        Img pos:        [-249, -422, 383]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_031_1_dcm_390.dcm    LOC: -0589   Pt pos: HFS        Img pos:        [-249, -422, -589]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000972
+
+seg_031_2_dcm_001.dcm    LOC: 00454   Pt pos: HFS        Img pos:        [-249, -450, 454]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_031_2_dcm_390.dcm    LOC: -0518   Pt pos: HFS        Img pos:        [-249, -450, -518]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000972
+
+seg_032_1_dcm_001.dcm    LOC: 00000   Pt pos: HFS        Img pos:        [-250, -250, 0]         Img_ori: [1, 0, 0, 0, 1, 0]
+seg_032_1_dcm_267.dcm    LOC: -0869   Pt pos: HFS        Img pos:        [-250, -250, -869]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000869
+
+seg_033_1_dcm_001.dcm    LOC: 00018   Pt pos: HFS        Img pos:        [-250, -250, 18]        Img_ori: [1, 0, 0, 0, 1, 0]
+seg_033_1_dcm_171.dcm    LOC: -0704   Pt pos: HFS        Img pos:        [-250, -250, -704]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000722
+
+seg_033_2_dcm_001.dcm    LOC: 00015   Pt pos: HFS        Img pos:        [-250, -250, 15]        Img_ori: [1, 0, 0, 0, 1, 0]
+seg_033_2_dcm_171.dcm    LOC: -0707   Pt pos: HFS        Img pos:        [-250, -250, -707]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000722
+
+seg_034_1_dcm_001.dcm    LOC: -1349   Pt pos: FFS        Img pos:        [-300, -230, -370]      Img_ori: [1, 0, 0, 0, 1, 0]
+seg_034_1_dcm_173.dcm    LOC: -0489   Pt pos: FFS        Img pos:        [-300, -230, -1230]     Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = -00860
+
+seg_035_1_dcm_001.dcm    LOC: -0011   Pt pos: HFS        Img pos:        [-249, -409, -11]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_035_1_dcm_404.dcm    LOC: -1019   Pt pos: HFS        Img pos:        [-249, -409, -1019]     Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 001008
+
+seg_035_2_dcm_001.dcm    LOC: -0476   Pt pos: HFS        Img pos:        [-249, -387, -476]      Img_ori: [1, 0, 0, 0, 1, 0]
+seg_035_2_dcm_453.dcm    LOC: -1606   Pt pos: HFS        Img pos:        [-249, -387, -1606]     Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 001130
+
+seg_037_1_dcm_001.dcm    LOC: -0013   Pt pos: HFS        Img pos:        [-250, -250, -13]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_037_1_dcm_267.dcm    LOC: -0882   Pt pos: HFS        Img pos:        [-250, -250, -882]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000869
+
+seg_037_2_dcm_001.dcm    LOC: 00003   Pt pos: HFS        Img pos:        [-250, -250, 3]         Img_ori: [1, 0, 0, 0, 1, 0]
+seg_037_2_dcm_267.dcm    LOC: -0866   Pt pos: HFS        Img pos:        [-250, -250, -866]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000869
+
+seg_038_1_dcm_001.dcm    LOC: -0022   Pt pos: HFS        Img pos:        [-250, -250, -22]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_038_1_dcm_223.dcm    LOC: -0747   Pt pos: HFS        Img pos:        [-250, -250, -747]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000725
+
+seg_038_2_dcm_001.dcm    LOC: 00021   Pt pos: HFS        Img pos:        [-250, -250, 21]        Img_ori: [1, 0, 0, 0, 1, 0]
+seg_038_2_dcm_267.dcm    LOC: -0848   Pt pos: HFS        Img pos:        [-250, -250, -848]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000869
+
+seg_039_1_dcm_001.dcm    LOC: 00000   Pt pos: HFS        Img pos:        [-250, -250, 0]         Img_ori: [1, 0, 0, 0, 1, 0]
+seg_039_1_dcm_267.dcm    LOC: -0869   Pt pos: HFS        Img pos:        [-250, -250, -869]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000869
+
+seg_039_2_dcm_001.dcm    LOC: -0031   Pt pos: HFS        Img pos:        [-250, -250, -31]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_039_2_dcm_267.dcm    LOC: -0901   Pt pos: HFS        Img pos:        [-250, -250, -901]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000870
+
+seg_041_1_dcm_001.dcm    LOC: 00020   Pt pos: HFS        Img pos:        [-250, -250, 20]        Img_ori: [1, 0, 0, 0, 1, 0]
+seg_041_1_dcm_223.dcm    LOC: -0705   Pt pos: HFS        Img pos:        [-250, -250, -705]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000725
+
+seg_041_2_dcm_001.dcm    LOC: 00129   Pt pos: HFS        Img pos:        [-250, -250, 129]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_041_2_dcm_267.dcm    LOC: -0740   Pt pos: HFS        Img pos:        [-250, -250, -740]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000869
+
+seg_042_1_dcm_001.dcm    LOC: 00033   Pt pos: HFS        Img pos:        [-250, -250, 33]        Img_ori: [1, 0, 0, 0, 1, 0]
+seg_042_1_dcm_311.dcm    LOC: -0980   Pt pos: HFS        Img pos:        [-250, -250, -980]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 001013
+
+seg_042_2_dcm_001.dcm    LOC: 00000   Pt pos: HFS        Img pos:        [-250, -250, 0]         Img_ori: [1, 0, 0, 0, 1, 0]
+seg_042_2_dcm_307.dcm    LOC: -1013   Pt pos: HFS        Img pos:        [-250, -250, -1013]     Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 001013
+
+seg_043_1_dcm_001.dcm    LOC: -0026   Pt pos: HFS        Img pos:        [-250, -250, -26]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_043_1_dcm_239.dcm    LOC: -1038   Pt pos: HFS        Img pos:        [-250, -250, -1038]     Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 001012
+
+seg_043_2_dcm_038.dcm    LOC: -0287   Pt pos: HFS        Img pos:        [-250, -250, -287]      Img_ori: [1, 0, 0, 0, 1, 0]
+seg_043_2_dcm_205.dcm    LOC: -0997   Pt pos: HFS        Img pos:        [-250, -250, -997]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000710
+
+seg_044_1_dcm_001.dcm    LOC: -0010   Pt pos: HFS        Img pos:        [-250, -250, -10]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_044_1_dcm_239.dcm    LOC: -1021   Pt pos: HFS        Img pos:        [-250, -250, -1021]     Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 001011
+
+seg_046_1_dcm_001.dcm    LOC: 00701   Pt pos: HFS        Img pos:        [-249, -443, 701]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_046_1_dcm_390.dcm    LOC: -0271   Pt pos: HFS        Img pos:        [-249, -443, -271]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000972
+
+seg_046_2_dcm_095.dcm    LOC: 00556   Pt pos: HFS        Img pos:        [-249, -451, 556]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_046_2_dcm_437.dcm    LOC: -0299   Pt pos: HFS        Img pos:        [-249, -451, -299]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000855
+
+seg_049_1_dcm_001.dcm    LOC: -0014   Pt pos: HFS        Img pos:        [-250, -250, -14]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_049_1_dcm_239.dcm    LOC: -1026   Pt pos: HFS        Img pos:        [-250, -250, -1026]     Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 001012
+
+seg_049_2_dcm_060.dcm    LOC: -0239   Pt pos: HFS        Img pos:        [-250, -250, -239]      Img_ori: [1, 0, 0, 0, 1, 0]
+seg_049_2_dcm_239.dcm    LOC: -1000   Pt pos: HFS        Img pos:        [-250, -250, -1000]     Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000761
+
+seg_050_1_dcm_001.dcm    LOC: 00404   Pt pos: HFS        Img pos:        [-249, -466, 404]       Img_ori: [1, 0, 0, 0, 1, 0]
+seg_050_1_dcm_390.dcm    LOC: -0568   Pt pos: HFS        Img pos:        [-249, -466, -568]      Img_ori: [1, 0, 0, 0, 1, 0]
+LOCATION DIFF = 000972
